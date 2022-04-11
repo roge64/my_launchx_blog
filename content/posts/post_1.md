@@ -1,7 +1,20 @@
 ---
 title: "Mi ruta de aprendizaje"
 date: 2022-03-01
-description: 'Descripción de tu blog post'
+description: 'Te voy a contar mi travesía en LaunchX de Innovacción Virtual'
 ---
 
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
+Quiero contarte lo que he aprendido en este camino:
+
+- Python
+- Lógica de Programación
+- Jupyter Notebooks
+- Command Line
+- Git
+- GitHub
+- HTML
+- CSS
+- Javascript
+- Nodejs
+
+
